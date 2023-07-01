@@ -28,4 +28,4 @@ I'm a design engineer. I like my job, but I want to learn something new. So I've
 + Russian - Native
 + English - Pre-Intermediate(A2+) in progress
 ***
-!(https://rs.school/images/rs_school_js.svg)
+![logo](https://app.rs.school/static/images/logo-rsschool3.png)
