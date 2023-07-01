@@ -29,5 +29,3 @@ I'm a design engineer. I like my job, but I want to learn something new. So I've
 + English - Pre-Intermediate(A2+) in progress
 
 ***
-
-![logo](https://app.rs.school/static/images/logo-rsschool3.png)
